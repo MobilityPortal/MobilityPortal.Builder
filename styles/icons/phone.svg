@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" enable-background="new 0 0 50 50">
+	    <style type="text/css">
+        .enabled {
+            fill: #78B2F2;
+        }
+    </style>
+	<g class="enabled">
+    <path d="M32.4,3H17.8c-3,0-5.8,2.9-5.8,6v32c0,3.7,3.5,6,6,6h14.4c3,0,5.6-2.6,5.6-5.6V8.6C38,5.6,35.4,3,32.4,3z M25,44.5 c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S25.8,44.5,25,44.5z M33,40H17V9h8.7H33V40z"/>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+{
+    "name": "MobilityPortal.Builder",
+    "version": "0.1.0",
+    "title": "adenin Mobility Portal Builder",
+    "description": "Provides mobile device previews and code hints for Polymer and Tangere components",
+    "engines": {
+        "brackets": ">=1.4.0"
+    },
+    "homepage": "http://www.mobilityportal.com",
+    "author": "adenin TECHNOLOGIES",
+    "license": "MIT",
+    "keywords": ["device", "mobile", "iphone", "preview", "polymer"]   
+}
