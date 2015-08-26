@@ -1,6 +1,6 @@
 {
-    "name": "MobilityPortal.Builder",
-    "version": "0.1.0",
+    "name": "mobilityportal.builder",
+    "version": "0.1.1",
     "title": "adenin Mobility Portal Builder",
     "description": "Provides mobile device previews and code hints for Polymer and Tangere components",
     "engines": {
